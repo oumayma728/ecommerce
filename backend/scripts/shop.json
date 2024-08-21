@@ -1,0 +1,17 @@
+[
+    {
+      "shopName": "Shop A",
+      "owner": "John Doe",
+      "location": "New York, NY",
+      "status": "Active",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "shopName": "Shop B",
+      "owner": "Jane Smith",
+      "location": "Los Angeles, CA",
+      "status": "Inactive",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
